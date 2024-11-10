@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Per Scholas Lab 320.2 - Building a Simple React Application
+
+Since this is a guided Lab, I followed through with the instructions, and added some components to keep it modular. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
