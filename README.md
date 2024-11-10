@@ -1,6 +1,8 @@
 # Per Scholas Lab 320.2 - Building a Simple React Application
 
-Since this is a guided Lab, I followed through with the instructions, and added some components to keep it modular. 
+Since this is a guided Lab, I followed through with the instructions, and added some components to keep it modular.   
+
+[Demo](https://jordles.github.io/Per-Scholas-Lab-320.2/)
 
 ## Getting Started with Create React App
 
