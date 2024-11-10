@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Footer() {
-  return (<h1>Created by Jordles, of course.</h1>);
+  return (<h1>Created by Jordles w/ Per Scholas</h1>);
 }
 
 export default Footer
